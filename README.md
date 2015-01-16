@@ -1,7 +1,7 @@
 # vpn-blacklist
-Keys blocked from connecting to our VPN servers
+Keys blocked from connecting to our VPN servers.
 
-Format:
+Format of `blacklist.json`:
 ```json
 {
     "peers": [
@@ -14,3 +14,4 @@ Format:
     "updated": "2015-01-16T21:06+0100"
 }
 ```
+All timestamps are in ISO 8601 format and can for example be generated using `date -Iminutes`.
