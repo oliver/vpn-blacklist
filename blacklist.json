@@ -1,6 +1,11 @@
 {
     "peers": [
+        {
+            "key": "09d0e90c5d60e450ade8c74638231c65c451ba66891ab4a02b17453081caa91c",
+            "reason": "Meshed with multiple vpn's",
+            "added": "2018-06-05T21:44+0100"
+        }
     ],
-    "updated": "2015-01-16T21:06+0100"
+    "updated": "2018-06-05T21:44+0100"
 }
 
