@@ -2,14 +2,19 @@
     "peers": [
         {
             "key": "82a0e378ec89f45606c297d82f3b5cc6b42dc986cab702826ea5a673d5de2c74",
-            "reason": "Ootentially loop",
-            "added": "2019-05-14T09:34:+0100"
+            "reason": "Potentially loop (ilseweg-local)",
+            "added": "2019-05-14T09:34+0100"
         },
         {
             "key": "bc5711473939ec2ccb265aa20994718f27084a43223d94de77c46e1b7b8c10d9",
             "reason": "Potentially loop",
-            "added": "2019-05-14T09:34:+0100"
+            "added": "2019-05-14T09:34+0100"
+        },
+        {
+            "key": "084e184e6d97242aca80f813b2b71196abdd10ad8866690d8a4b68db591bafd4",
+            "reason": "Potentially loop (ffhb-MeckiNW-erx-offload)",
+            "added": "2019-05-14T10:48+0100"
         }
     ],
-    "updated": "2019-05-14T09:34+0100"
+    "updated": "2019-05-14T10:48+0100"
 }
