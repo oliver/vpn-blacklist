@@ -1,6 +1,10 @@
 {
     "peers": [
+        {
+            "key": "82a0e378ec89f45606c297d82f3b5cc6b42dc986cab702826ea5a673d5de2c74",
+            "reason": "Potentially loop",
+            "added": "2019-05-14T09:34:+0100"
+        }
     ],
-    "updated": "2015-01-16T21:06+0100"
+    "updated": "2019-05-14T09:34+0100"
 }
-
